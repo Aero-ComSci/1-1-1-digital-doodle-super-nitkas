@@ -4,7 +4,9 @@
 ## Include the following in this read me
 
 1. Who is this app for?
+   This app is for digital artists and photo editors. 
 1. What does it do, how does it work
+   This application allows one to take pictures, edit them in two ways through the picture slider and the paint color, and allows them to save their pictures. The picture 
 1. Add screenshots of the design view or actual app
 1. Blocks that you showcase your individual skill
 1. The images you created
